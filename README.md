@@ -2,13 +2,8 @@
 2. Used boilerplate from Activity 7
 3. Ran yarn install for node modules
 4. Mongoose- I still do not fully understand how to connect to mongoose db
-5. (Back-end) API routes following Pupster example- Make sure each route works
-6. (Font-end) components- I am still shaky on using components
 
+To Do: 
+5. (Back-end) API routes following Bamazon example- Make sure each route works
+6. (Font-end) components- I am still shaky on using components- I need to review last Monday's vid
 
-
-Your app should now be running on <http://localhost:3000>. The Express server should intercept any AJAX requests from the client.
-
-## Deployment (Heroku)
-
-To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
